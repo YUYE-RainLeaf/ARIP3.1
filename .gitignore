@@ -1,0 +1,12 @@
+# meta
+.vscode/
+__pycache__/
+
+# data
+#data/
+
+# generated
+out/
+
+# lprof dumps
+*.lprof

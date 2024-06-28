@@ -1,0 +1,8 @@
+numpy
+pandas
+biopython
+tqdm
+seaborn
+matplotlib
+scipy
+line_profiler
